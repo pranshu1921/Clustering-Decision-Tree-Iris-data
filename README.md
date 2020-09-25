@@ -20,11 +20,6 @@ Refer to [report](https://github.com/pranshu1921/Clustering-Decision-Tree-Iris-d
 
 * Download the .R file.
 
-### Install the requirements
- 
-* Install the requirements using `pip install -r requirements.txt`.
-    * Make sure you use Python 3.
-    
 * Run the .R file using R Studio(recommended).
 
 ## Status
