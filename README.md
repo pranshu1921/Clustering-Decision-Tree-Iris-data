@@ -14,7 +14,7 @@ This project involves implementing Decision trees, k-means clusters and density 
 We started by loading the appropriate libraries needed for the project and analyed the ‘iris’ dataset. 
 The famous ‘iris’ dataset gives the measurements in centimeters of the variables sepal length and width and petal length and width, respectively, for 50 flowers from each of 3 species of iris. The species are Iris setosa, versicolor, and virginica.
 
-Refer to report attached for complete information.
+Refer to [report](https://github.com/pranshu1921/Clustering-Decision-Tree-Iris-data/blob/master/Report.docx) attached for complete information.
 
 ## Setup
 
